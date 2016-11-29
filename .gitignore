@@ -1,0 +1,10 @@
+# generator-angular-fullstack
+node_modules
+.tmp
+.env
+
+# IntellijIdea
+*.iml
+*.ipr
+*.iws
+.idea/
