@@ -9,7 +9,7 @@
   "author": "Patrick Sullivan",
   "license": "MIT",
   "bin": {
-    "pomerge": "lib/cli.js"
+    "pomerge": "./bin/pomerge"
   },
   "dependencies": {
     "lodash": "^4.17.2",
